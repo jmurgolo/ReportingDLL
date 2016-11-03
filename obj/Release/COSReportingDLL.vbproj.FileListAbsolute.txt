@@ -1,0 +1,16 @@
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\COSReportingDLL.dll
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\COSReportingDLL.pdb
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\COSReportingDLL.xml
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\obj\Release\COSReportingDLL.Resources.resources
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\obj\Release\COSReportingDLL.vbproj.GenerateResource.Cache
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\obj\Release\COSReportingDLL.dll
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\obj\Release\COSReportingDLL.xml
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\obj\Release\COSReportingDLL.pdb
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\System.Core.dll
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\System.Data.dll
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\System.dll
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\System.Drawing.dll
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\System.Xml.dll
+C:\Users\jmm\Documents\Visual Studio 2008\Projects\COSReportingDLL\COSReportingDLL\bin\Release\System.Xml.Linq.dll
